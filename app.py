@@ -6,7 +6,7 @@ app = Flask(__name__)
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
-<head><title>Currency Converter</title>
+<head><title>Neil's Currency Converter</title>
 <style>body { font-family: Arial; max-width: 600px; margin: 20px auto; }</style>
 </head>
 <body>
